@@ -6,6 +6,11 @@ h1 {
     text-align: center;
 }
 
+img {
+    height: 300px;
+    width: auto;
+}
+
 .img-container {
     display: flex;
     justify-content: center;
